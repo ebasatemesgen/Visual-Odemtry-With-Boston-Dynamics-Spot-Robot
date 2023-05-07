@@ -1,3 +1,5 @@
+<img src="./image/spot_gazebo.gif" alt="Spot Robot Simulation with ORB-SLAM3" width="1000" />
+
 
 # Part 1: Boston Dynamics Spot Robot Setup
 
